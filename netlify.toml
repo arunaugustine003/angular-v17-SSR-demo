@@ -1,4 +1,4 @@
 [build]
 command = "ng build"
 functions = "netlify/functions"
-publish = "dist/angular-v17-ssr/browser"
+publish = "dist/angular-v17-ssr-demo/browser"
